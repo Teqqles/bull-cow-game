@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:BullsvCows.xcodeproj">
+      location = "self:/Users/dlo21/Development/BullsvCows/BullCowGame.xcodeproj">
    </FileRef>
 </Workspace>
